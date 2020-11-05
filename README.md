@@ -8,11 +8,11 @@ C. Create a table with the following attributes:
 ```
     * chlorides, density, pH, sulphates, alcohol, quality, id
     * all attributes are REAL, except for quality(TEXT) and id (INT)
-    ```
+ ``` 
  
-D. Insert your a couple of 'made up data`
+D. Insert your a couple of made up data
 
-E. Open csv file `wine.csv`
+E. Open csv file wine.csv
 
 F. Insert data from CSV into the table
 
