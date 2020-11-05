@@ -1,5 +1,7 @@
 # SQL-sprint-Review
 
+0. Create a wine.py file to write your scripts on.
+
 A. Create a database called 'wine.sqlite3'
 
 B. Create a table with the following attributes:
